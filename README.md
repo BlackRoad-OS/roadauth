@@ -1,19 +1,20 @@
 # roadauth
 
-**Proprietary Software — [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc)**
-
----
-
 RoadAuth — Enterprise identity and access management. JWT, MFA, OAuth2, LDAP, SAML.
 
-## License
+## Organization
 
-This software is proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency and collaboration. Commercial use, forking, and redistribution are prohibited without written authorization.
+**BlackRoad-OS** — Core platform — websites, integrations, coordination
 
-See [LICENSE](LICENSE) for full terms.
+## BlackRoad OS
 
----
+BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
 
-**BlackRoad OS — Pave Tomorrow.**
+- [blackroad.io](https://blackroad.io) — Main platform
+- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
+- [GitHub](https://github.com/BlackRoad-OS) — This organization
 
-*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
+**Language:** HTML
+
+
+*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
